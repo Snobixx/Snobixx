@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Snobix ! 
+**I'm Snobix !**
 
-i'm Developer in :
+**i'm Developer in :**
 
 - Lua
 - JS
