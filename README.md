@@ -12,4 +12,3 @@
 
 ## Social
 
-https://discord.com/users/963467947916009523
