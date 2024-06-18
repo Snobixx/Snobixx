@@ -12,3 +12,5 @@
 
 ## Social
 
+- tebex : nsleak.tebex.io
+- discord : https://discord.gg/ZmvBYR8qDW
