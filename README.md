@@ -8,9 +8,11 @@
 
 - Lua
 - JS
+- HTML
+- CSS
 
 
 ## Social
 
-- tebex : nsleak.tebex.io
-- discord : https://discord.gg/ZmvBYR8qDW
+- tebex : kzdev.tebex.io
+- discord : https://discord.gg/rKahZsTVHt
