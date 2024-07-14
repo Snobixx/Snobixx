@@ -4,7 +4,6 @@
 
 ![Follower on YouTube](https://img.shields.io/youtube/channel/subscribers/UC-g6RYebCBAJ_q6YDfcL87Q?style=social)
 
-![FiveM](https://img.shields.io/badge/%7C%20FiveM-pink?style=for-the-badge&logo=fiveM&logoColor=black)
 
 
 ## À propos de moi
@@ -23,6 +22,7 @@ Voici les langages que j'utilise fréquemment :
 ### KZ DEV
 _KZ Dev est une boutique tebex de dev fiveM avec des script parfois gratuits et d'autres payants !_
 - **Technologies utilisées :** LUA, JavaScript, HTML, CSS
+ ![FiveM](https://img.shields.io/badge/%7C%20FiveM-pink?style=for-the-badge&logo=fiveM&logoColor=black)
 
 ## Social
 
