@@ -1,4 +1,8 @@
-# Bienvenue sur le GitHub de Snobix'
+# Bienvenue sur le GitHub de Snobix' 
+
+![Snobix' photo de profil ](https://i.ibb.co/J7mr53R/b9ffc88ad813f68a723558620ce3ff47.jpg)
+
+![Follower on YouTube](https://img.shields.io/youtube/channel/subscribers/UC-g6RYebCBAJ_q6YDfcL87Q?style=social)
 
 ## À propos de moi
 Salut ! Je suis Snobix', un développeur passionné par le développement web et le scripting. J'aime créer des projets innovants en utilisant diverses technologies.
