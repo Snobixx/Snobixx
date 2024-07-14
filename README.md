@@ -22,9 +22,6 @@ _KZ Dev est une boutique tebex de dev fiveM avec des script parfois gratuits et 
 - tebex : kzdev.tebex.io
 - discord : https://discord.gg/rKahZsTVHt
 
-## À venir
-- [ ] **Projet à venir 1 :** _Description rapide..._
-- [ ] **Projet à venir 2 :** _Description rapide..._
 
 Merci de visiter mon GitHub ! N'hésitez pas à explorer mes projets et à laisser des étoiles ⭐️ si vous trouvez quelque chose d'intéressant.
 
