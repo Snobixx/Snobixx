@@ -5,7 +5,7 @@
 ![Follower on YouTube](https://img.shields.io/youtube/channel/subscribers/UC-g6RYebCBAJ_q6YDfcL87Q?style=social)
 
 ## À propos de moi
-Salut ! Je suis Snobix', un développeur passionné par le développement web et le scripting. J'aime créer des projets innovants en utilisant diverses technologies.
+Salut ! Je suis Snobix', un développeur passionné par le développement et le scripting. J'aime créer des scripts fiveM en utilisant diverses technologies.
 
 ## Langages et Technologies
 Voici les langages que j'utilise fréquemment :
