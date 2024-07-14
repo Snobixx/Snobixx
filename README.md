@@ -4,6 +4,9 @@
 
 ![Follower on YouTube](https://img.shields.io/youtube/channel/subscribers/UC-g6RYebCBAJ_q6YDfcL87Q?style=social)
 
+![FiveM](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2F%257C%2520FiveM-pink%3Fstyle%3Dfor-the-badge%26logo%3DfiveM%26logoColor%3Dblack)
+
+
 ## À propos de moi
 Salut ! Je suis Snobix', un développeur passionné par le développement et le scripting. J'aime créer des scripts fiveM en utilisant diverses technologies.
 
