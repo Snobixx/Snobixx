@@ -1,6 +1,6 @@
 # Bienvenue sur le GitHub de Snobix' 
 
-![Snobix' photo de profil ](https://i.ibb.co/J7mr53R/b9ffc88ad813f68a723558620ce3ff47.jpg)
+![Snobix' photo de profil ]([https://i.ibb.co/J7mr53R/b9ffc88ad813f68a723558620ce3ff47.jpg](https://i.ibb.co/dmMhf9B/yzb3oway5iv81.png))
 
 ![Follower on YouTube](https://img.shields.io/youtube/channel/subscribers/UC-g6RYebCBAJ_q6YDfcL87Q?style=social)
 
