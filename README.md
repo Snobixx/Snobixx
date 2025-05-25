@@ -25,13 +25,6 @@ _KZ Dev est une boutique tebex de dev fiveM avec des script parfois gratuits et 
 
 ![FiveM](https://img.shields.io/badge/%7C%20FiveM-pink?style=for-the-badge&logo=fiveM&logoColor=black)
 
-### Project ReNew
-_Project ReNew est un launcheur qui permet de jouer à l'ancien fortnite gratuitement !_
-- **Technologies utilisées :** Pyhton, C++
-## Social
-
-- tebex : kzdev.tebex.io
-- discord : https://discord.gg/rKahZsTVHt
 
 
 Merci de visiter mon GitHub ! N'hésitez pas à explorer mes projets et à laisser des étoiles ⭐️ si vous trouvez quelque chose d'intéressant.
